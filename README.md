@@ -20,4 +20,5 @@ Collaboration with [Believer2722](https://github.com/Believer2722)
 To get started with the Job Management System, follow these steps:
 - Clone the repository: git clone https://github.com/your-username/job-management-system.git
 * Open the project in Eclipse IDE.
+* Do change in hibernate.cfg.xml file - database connection url,database driver,username,password
 + Compile and run the project from within Eclipse.
