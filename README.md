@@ -12,13 +12,13 @@ Collaboration with [Believer2722](https://github.com/Believer2722)
 6. ``Command-Line Interface``: Although the project does not have a graphical user interface (GUI), it offers a CLI for interacting with the system, providing a straightforward interface for users.
 
 ## Technologies Used:
-- Java
+* Java
 * Hibernate
-+ Eclipse IDE
+* Eclipse IDE
 
 ### Getting Started:
 To get started with the Job Management System, follow these steps:
-- Clone the repository: git clone https://github.com/your-username/job-management-system.git
+* Clone the repository: git clone https://github.com/your-username/job-management-system.git
 * Open the project in Eclipse IDE.
 * Do change in hibernate.cfg.xml file - database connection url,database driver,username,password
-+ Compile and run the project from within Eclipse.
+* Compile and run the project from within Eclipse.
